@@ -1,3 +1,3 @@
 function firstclick() {
-    alert("Donate to Aksamaya fund today!")
+    alert("Hachi is a good boy! aaaaahhhhhh he is still a puppy");
 }
