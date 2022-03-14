@@ -1,1 +1,0 @@
-# amandeepkaurbawa.github.io
